@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 실행방법
 ## 사전준비
 
@@ -19,13 +18,3 @@ yarn build
 ```
 
 3. Define your environment variables using the instructions below, and start up the server with `npm start`.
-
-
-# Learn More
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-=======
-# web-test
-web-test
->>>>>>> f276bf688bb069a266c0facd14fb5ae33c718880
